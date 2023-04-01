@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abduljebar Sani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on Angular 2+ and Dotnet web core **Dagu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
