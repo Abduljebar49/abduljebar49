@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljebar49&label=Profile%20views&color=0e75b6&style=flat" alt="abduljebar49" /> </p>
 
+
 - 💬 Ask me about **Angular, Flutter, React and Node (Express and Nest)**
 
 - 📫 How to reach me **Abduljebarsani@gmail.com**
@@ -19,4 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduljebar49&show_icons=true&locale=en&layout=compact" alt="abduljebar49" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduljebar49&show_icons=true&locale=en" alt="abduljebar49" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduljebar49&" alt="abduljebar49" /></p>
