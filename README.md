@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljebar49&label=Profile%20views&color=0e75b6&style=flat" alt="abduljebar49" /> </p>
 
 
-- 💬 Ask me about **Angular, Flutter, React and Node (Express and Nest)**
+- 💬 Ask me about **React, Angular, Node (Express and Nest) and Flutter**
 
 - 📫 How to reach me **Abduljebarsani@gmail.com**
 
