@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b4d8&height=180&section=header&text=Abduljebar%20Sani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Fintech%20%26%20Product%20Development&descSize=18&descAlignY=58" width="100%" alt="Abduljebar Sani"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b4d8&height=180&section=header&text=Abduljebar%20Sani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Fintech%20%7C%20SaaS%20Products&descSize=18&descAlignY=58" width="100%" alt="Abduljebar Sani"/>
 </div>
 
 <div align="center">
