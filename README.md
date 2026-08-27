@@ -101,7 +101,6 @@ My work focuses on systems people actually rely on: **payment integrations** (te
 | **🪪 Fayda Integration** | Integration with Ethiopia's **Fayda National ID** for digital identity / **eKYC** verification — gov-tech, security-sensitive workflows. | `TypeScript` |
 | **📦 Import & Sales Management (ERP)** | An **inventory / ERP-style** import-and-sales management system covering stock, sales, and admin operations. | `Node.js` `TypeScript` |
 | **🧱 NestJS Microservices Backend** | A **microservice architecture** backend demonstrating service decomposition and scalable system design. | `NestJS` `TypeScript` |
-| **📱 Flutter Portfolio** | A cross-platform portfolio app showcasing Flutter UI engineering. [**Live demo →**](https://portfolio-flutter-abdulj.vercel.app) | `Flutter` `Dart` |
 
 🔎 Explore all **110+ repositories** on my [**profile**](https://github.com/Abduljebar49?tab=repositories).
 
